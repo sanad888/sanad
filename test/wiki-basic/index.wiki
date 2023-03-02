@@ -1,0 +1,22 @@
+# Intro
+
+This is a wiki.
+
+CreateFullLineLink
+
+[[NewPage]]
+
+[[/sub/Foo]]
+[[/sub/Foo][orgmode link to /sub/Foo]]
+
+TestSubDirLink/
+
+This-is-a-wiki.
+
+[[#Section 1#Foo bar Baz]]
+[[#section-1#foo-bar-baz]]
+
+# Section 1
+
+## Foo bar Baz
+

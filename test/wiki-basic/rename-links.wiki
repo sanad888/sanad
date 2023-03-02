@@ -1,0 +1,7 @@
+# Intro
+
+This is a wiki.
+
+[[BadName]]
+[[subdir/BadName]]
+

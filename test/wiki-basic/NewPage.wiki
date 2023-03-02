@@ -1,0 +1,5 @@
+# This page is new
+:tag1: :tag2:
+
+## Next section
+:marked:
